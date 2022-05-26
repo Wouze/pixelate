@@ -4,6 +4,8 @@ pixelate turns your pictures into pixel art ! Well, sometimes.
 
 It is a simple script based on PIL.
 
+This fork just made it as a Function instead of command line app.
+
 <img src="/examples/akira.jpg" alt="" width="400"/> <img src="/examples/akira_pix.png" alt="" width="400"/>  
 
 <img src="/examples/kid.jpg" alt="" width="400"/> <img src="/examples/kid_pix.png" alt="" width="400"/>  
